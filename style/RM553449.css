@@ -1,0 +1,31 @@
+section {;
+    display:flex
+}
+
+section p { 
+    flex: 1;
+color:yellow;
+width: 14px;
+border: 3px double white;
+background-color: black; 
+}
+
+.p2 {
+flex: 2;
+background-color: gray;
+ }
+
+ .p3 {
+    flex: 3;
+    background-color: chartreuse;
+ }
+
+ .p4 {
+    flex: 4;
+    background-color: chocolate;
+ }
+
+ .p5 {
+    flex: 5;
+    background-color: crimson;
+ }
